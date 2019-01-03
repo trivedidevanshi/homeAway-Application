@@ -1,0 +1,64 @@
+.ownerPropBack{
+    background-color: rgb(236, 235, 235);
+    padding:3%;
+}
+
+.myForm{
+    margin:5%;
+    background-color: white;
+    padding: 5%;
+    box-shadow: 4px 4px 5px 5px #8888;
+}
+ 
+ 
+.Availability{
+    margin:5%;  
+}
+.textcenter{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.alignCenter{
+    text-align: center;
+}
+.blockOutIcon{
+    background-image: url(//csvcus.homeaway.com/rsrcs/82/B43CA9FA2FB92C9358A6D7F3CA4308-blockOut_selected.svg);
+}
+.getborder{
+    height: 325px;
+    border: 1px solid gray;
+    background-color: white;
+}
+.aText{
+    color:black;
+}
+.availabeldates{
+    margin: 5px;
+    color:black;
+    font-size: 15px;
+    width:30%;
+}
+.buttonForm1{
+    float: right;
+    color:blue;
+    font-size: 130%;
+    border: 1px solid grey;
+    background-color: white;
+    width: 15%;
+    border-radius: 20px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 1%; 
+}
+
+.buttonForm{
+    color:blue;
+    font-size: 130%;
+    border: 1px solid grey;
+    background-color: white;
+    width: 15%;
+    border-radius: 20px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 1%; 
+}

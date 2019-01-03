@@ -1,0 +1,20 @@
+.sidebarBackground{ 
+   
+    width:27%;
+    padding: 5%;  
+    
+}
+.sidebarText{
+    font-size: 20px;;
+    color:black !important; 
+}
+.sidebarText:hover {
+    text-decoration: underline;
+}
+.leftMargin{
+    margin-left: 10%;
+
+} 
+ 
+
+ 

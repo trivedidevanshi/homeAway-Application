@@ -1,0 +1,24 @@
+.ownerPropBack{
+    background-color: rgb(236, 235, 235);
+    padding:3%;
+}
+.textBar{
+    background-color: rgb(236, 235, 235);
+    min-height: 900px;
+    padding: 2%;
+}
+.textBarButton{
+    font-size: 20px;
+    width:30%;
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 30px;
+}
+.textBarText{
+    font-size: 30px;
+    margin-bottom: 5%;
+}

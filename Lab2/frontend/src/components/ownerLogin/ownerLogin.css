@@ -1,0 +1,49 @@
+ .ownersignupimage{
+  padding-left: 35%;
+  padding-top: 10%;
+ }
+ 
+ .ownerLoginInputFont{
+   width: 100%;
+ }
+.loginDiv{
+    background-color:rgba(0, 0, 0, 0.1);
+    
+  }
+
+  .travelerLoginBackground{
+    background-color:rgba(0, 0, 0, 0.075);
+  }
+  .travelerLoginFormBackground{
+    margin: 3%;
+    padding: 1%;
+  }
+  .travelerLoginClass{
+    text-align: center;
+    padding:1%;
+  }
+  .travelerLoginBack{
+    background-color: white;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: -10%;
+    margin-right: 40%;
+    margin-top: 6%;
+  }
+  .travelerLoginText{
+    font-size: 40px;
+  }
+  .travelerLoginInputFont{
+    font-size: 20px;
+    height: 50px;  
+  }
+.travelerLoginButton{
+  background-color: darkorange;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  width: 100%;
+  height: 40px;  
+}

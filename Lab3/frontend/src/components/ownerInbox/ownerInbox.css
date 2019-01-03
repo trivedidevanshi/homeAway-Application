@@ -1,0 +1,34 @@
+.ownerResponse{
+  color: blue;
+}
+.ownerPropDetails{
+    background-color:rgb(236, 235, 235);
+    height: 100%;
+  }
+  .ownerPropDashboard{
+    
+    background-color: rgb(236, 235, 235);
+    margin:2%;
+    padding: 1%;
+  }
+  
+.propText{
+    margin: 1%;
+    font-family: 'Lucida Console';
+    
+  }
+  .dashboardProps{
+     
+    background-color: white;
+    margin: 1%; 
+    padding: 1%;
+   
+  } 
+  .replyButton{
+    margin: 1%;
+    margin-bottom: 1%;
+    background-color:rgb(18, 185, 18);
+    border: none;
+    color: white;
+    padding: 0.5%;
+  }

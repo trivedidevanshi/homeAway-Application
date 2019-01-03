@@ -1,0 +1,42 @@
+.ownerPropBack{
+    background-color: rgb(236, 235, 235);
+    padding:3%;
+}
+
+.myForm{
+    margin:5%;
+    background-color: white;
+    padding: 5%;
+    box-shadow: 4px 4px 5px 5px #8888;
+}
+
+.myTextBox{
+    width: 100%;
+    line-height: 3em;
+    font-size: 130%; 
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+.myTextBox1{
+    width: 35%;
+    line-height: 2em;
+    font-size: 130%; 
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+.buttonForm1{
+    text-align: center;
+}
+
+.buttonForm{
+    color:blue;
+    font-size: 130%;
+    border: 1px solid grey;
+    background-color: white;
+    width: 15%;
+    border-radius: 20px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 1%; 
+}

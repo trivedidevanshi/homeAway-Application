@@ -1,0 +1,25 @@
+.ownerPropDetails{
+    background-color:rgb(236, 235, 235);
+    height: 100%;
+}
+.ownerPropDashboard{
+    
+    background-color: rgb(236, 235, 235);
+    margin:2%;
+    padding: 1%;
+}
+.dashboardProps{
+     
+    background-color: white;
+    margin: 1%; 
+}
+.propText{
+    margin: 1%;
+    font-family: 'Lucida Console';
+    
+}
+.imageProp{
+    height: 60%;
+    width: 80%;
+    margin: 2%;
+}

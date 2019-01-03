@@ -1,0 +1,57 @@
+body {
+  background: #EAEBEC;
+  }
+
+.container{ 
+  margin: 20px;
+}
+
+.calci-body{
+
+  width: 300px;
+  margin: auto;
+  height: 230px;
+  padding: 20px;
+  background-color: #FFFFFF;
+  box-shadow: 0 8px 50px -7px black;
+
+}
+
+.calci-screen{
+  background: black;
+  width: 100%; 
+  height:40px; 
+  border:1px solid black;
+  font-size: 20px;
+  color: #FFFFFF;
+ 
+}
+
+.calci-row{
+
+  width: 100%;
+  padding:5px;
+  background-color: #FFFFFF;
+}
+.calci-button{
+
+  width: 20%; 
+  background: #6200EE;
+  color: #fff;
+  padding: 15px;
+  display: inline-block;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 4px; 
+  transition: all 0.2s ease-in-out;
+}
+.calci-button.c{
+  color:rgb(0, 0, 0);
+   
+}
+
+.calci-button:hover {
+  background: rgb(255, 0, 85);
+  transform: rotate(1deg);
+} 

@@ -1,0 +1,38 @@
+.hamburger1{
+  width: 35px;
+    height: 3px;
+    background-color: black;
+    margin: 6px 0;
+}
+.hamburger2{
+    width: 30px;
+    height: 3px;
+    background-color: black;
+    margin: 6px 0;
+}
+.hamburger3{
+  width: 20px;
+    height: 3px;
+    background-color: black;
+    margin: 6px 0;
+}
+.hamburgerNav{
+  float:left;
+  margin:1%; 
+}
+.navbar-default .navbar-nav>li>a {
+  color: black;
+  font-size: 120%;
+}
+.myNavbar{
+  background-color: white;
+  border:none;
+  margin-bottom: 0px !important;
+}
+.navbar-default .navbar-brand {
+  color: black;
+  font-size: 210%;
+}
+.glyphicon {
+  font-size: 100%;
+}

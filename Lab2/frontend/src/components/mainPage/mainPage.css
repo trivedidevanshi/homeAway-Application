@@ -1,0 +1,94 @@
+.backImage{
+    background-image: url("backGround.jpg");
+    background-size: cover;
+    background-position: 50%;
+    background-repeat : no-repeat;
+    position : relative;
+   
+  }
+  
+  .mynavbar{
+    background: transparent;
+    border: transparent;
+    background-color:rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbarLogo{
+    font-size: 40px;
+    color:white;
+  
+  }
+  
+  .navbarText{
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+  }
+  
+  .navButton{
+    margin: 10px;
+    background: white;
+    color:black;
+    border-radius: 12px;
+    border: none;
+    font-size: 15px;
+    padding: 5px;
+    
+  }
+  .navbar-default .navbar-nav>li>a {
+    color: white;
+  }
+  .navbarHomeImage{
+    color:white;
+  }
+  .site-header-birdhouse__image{
+    height: 50px;
+    width: 50px;
+  }
+  .myjumbotron{
+    background: transparent;
+  }
+  .jumbotronContent{
+    background-color:rgba(0, 0, 0, 0.5);
+    color: white; 
+    margin: 3%;
+    text-align: left;
+    vertical-align: center;
+  }
+  .myfont{
+    font-size: 40px;
+    padding: 0%;
+  }
+  .jumbotronSearch{
+    background-color:rgba(0, 0, 0, 0.5);
+    padding: 20px;
+  
+  }
+  .navSearchButton{
+    margin: 10px;
+    background: blue;
+    color:white;
+    border-radius: 12px;
+    border: none;
+    font-size: 20px; 
+  }
+  .mainInputs{
+      margin: 5px;
+      color:black;
+      font-size: 20px;
+      width:20%;
+  }
+  .mainPageColumns{
+      color:black;
+      background: transparent;
+      text-align: center;
+      color: white;
+      font-size: 15px;
+      margin-bottom: 2%;
+  }
+  .navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.mydropdown{
+  font-size: 18px; 
+}
